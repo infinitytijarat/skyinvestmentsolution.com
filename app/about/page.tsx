@@ -24,10 +24,10 @@ export default function AboutPage() {
             <div>
               <h2 className="text-3xl lg:text-5xl font-bold mb-8">Our Journey to Excellence</h2>
               <p className="text-lg text-gray-300 leading-relaxed">
-                skyinvestmentsolution.com is a premium market research consultancy based in Bombay, India. Specializing in
+                Sky Investment Solution is a premium market research consultancy based in Bombay, India. Specializing in
                 providing in-depth analysis and strategic insights for traders and investors, they offer a wide range of
                 services tailored to meet the unique needs of each client. With a team of experienced analysts and
-                cutting-edge technology, skyinvestmentsolution.com has earned a reputation for delivering accurate and timely
+                cutting-edge technology, Sky Investment Solution has earned a reputation for delivering accurate and timely
                 market intelligence that drives profitable decision-making.
               </p>
             </div>
