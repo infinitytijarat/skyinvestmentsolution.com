@@ -24,6 +24,9 @@ export default function PackagesPage() {
               Stock Option of skyinvestmentsolution.com
             </span>
           </h2>
+              Stock Option of Sky Investment Solution
+            </span>
+          </h2>
 
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
             {/* Basic Package */}
@@ -40,8 +43,8 @@ export default function PackagesPage() {
                 </div>
 
                 <div className="space-y-4">
-                  <div className="flex items-center">
-                    <div className="flex-shrink-0 mr-3">
+                  <div className="flex items-start">
+                    <div className="flex-shrink-0 mr-3 mt-1">
                       <Check className="h-5 w-5 text-teal-400" />
                     </div>
                     <span className="text-gray-300">Get 1 tip per day</span>
@@ -68,7 +71,7 @@ export default function PackagesPage() {
                     <div className="flex-shrink-0 mr-3">
                       <Check className="h-5 w-5 text-teal-400" />
                     </div>
-                    <span className="text-gray-300">Eligibility criteria – capital below 50000</span>
+                    <span className="text-gray-300 break-words">Eligibility criteria – capital below 50000</span>
                   </div>
                 </div>
 
@@ -81,7 +84,7 @@ export default function PackagesPage() {
             </Card>
 
             {/* Primary Package */}
-            <Card className="bg-gradient-to-b from-slate-800 to-slate-900 border-teal-400 transition-all duration-300 overflow-hidden transform hover:scale-105 shadow-xl relative">
+            <Card className="bg-gradient-to-b from-slate-800 to-slate-900 border-teal-400 transition-all duration-300 overflow-hidden relative hover:z-10">
               <div className="absolute top-0 right-0 bg-teal-500 text-white px-4 py-1 text-sm font-semibold">
                 POPULAR
               </div>
@@ -119,7 +122,7 @@ export default function PackagesPage() {
                     <div className="flex-shrink-0 mr-3">
                       <Check className="h-5 w-5 text-teal-400" />
                     </div>
-                    <span className="text-gray-300">Eligibility criteria – capital above Rs. 70,000</span>
+                    <span className="text-gray-300 break-words">Eligibility criteria – capital above Rs. 70,000</span>
                   </div>
                   <div className="flex items-center">
                     <div className="flex-shrink-0 mr-3">
@@ -179,7 +182,7 @@ export default function PackagesPage() {
                     <div className="flex-shrink-0 mr-3">
                       <Check className="h-5 w-5 text-teal-400" />
                     </div>
-                    <span className="text-gray-300">Eligibility criteria Capital above Rs. 100,000</span>
+                    <span className="text-gray-300 break-words">Eligibility criteria Capital above Rs. 100,000</span>
                   </div>
                   <div className="flex items-center">
                     <div className="flex-shrink-0 mr-3">
@@ -229,8 +232,8 @@ export default function PackagesPage() {
                       <span className="text-gray-300">Profit target- Rs. 15,000 to Rs. 20,000</span>
                     </div>
                     <div className="flex items-center">
-                      <Check className="h-4 w-4 text-teal-400 mr-2" />
-                      <span className="text-gray-300">Eligibility criteria Capital above Rs. 150,000</span>
+                      <Check className="h-4 w-4 text-teal-400 mr-2 flex-shrink-0" />
+                      <span className="text-gray-300 break-words">Eligibility criteria Capital above Rs. 150,000</span>
                     </div>
                     <div className="flex items-center">
                       <Check className="h-4 w-4 text-teal-400 mr-2" />
@@ -273,8 +276,8 @@ export default function PackagesPage() {
                       <span className="text-gray-300">Profit target- Rs. 20,000 to Rs. 25,000</span>
                     </div>
                     <div className="flex items-center">
-                      <Check className="h-4 w-4 text-teal-400 mr-2" />
-                      <span className="text-gray-300">Eligibility criteria Capital above Rs. 200,000 - 250,000</span>
+                      <Check className="h-4 w-4 text-teal-400 mr-2 flex-shrink-0" />
+                      <span className="text-gray-300 break-words">Eligibility criteria Capital above Rs. 200,000 - 250,000</span>
                     </div>
                     <div className="flex items-center">
                       <Check className="h-4 w-4 text-teal-400 mr-2" />

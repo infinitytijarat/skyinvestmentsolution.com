@@ -43,7 +43,7 @@ export default function RootLayout({
       <head>
         <link rel="icon" href="/images/Fevicon.png" type="image/png" />
       </head>
-      <body className={inter.className}>
+      <body className={`${inter.className} overflow-x-hidden`}>
         <DisclaimerBanner />
         <Navigation />
         <main>{children}</main>

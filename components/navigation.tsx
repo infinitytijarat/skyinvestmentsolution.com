@@ -47,7 +47,7 @@ export function Navigation() {
                 priority
               />
             </div>
-            <span className="font-bold text-base lg:text-xl">skyinvestmentsolution.com</span>
+            <span className="font-bold text-base lg:text-xl">Sky Investment Solution</span>
           </Link>
 
           {/* Desktop Navigation */}
