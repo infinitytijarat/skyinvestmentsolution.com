@@ -8,7 +8,7 @@ export function Footer() {
           <div>
             <h3 className="text-lg font-semibold mb-4">About Us</h3>
             <p className="text-gray-300">
-              Sky Investment Solution provides premium market research solutions, empowering traders and investors globally
+              skyinvestmentsolution.com provides premium market research solutions, empowering traders and investors globally
               with cutting-edge analysis and insights.
             </p>
           </div>
@@ -43,16 +43,16 @@ export function Footer() {
           <div>
             <h3 className="text-lg font-semibold mb-4">Contact Us</h3>
             <div className="space-y-2 text-gray-300">
-              <p>Sakaram Patil Marg, Sector 1A, CBD Belapur,</p>
-              <p>Navi Mumbai, Maharashtra 400614, India</p>
+              <p>Room No. 05 Chawl No. 07 Pakiza Chawl, Dargah Road,</p>
+              <p>Amrut Nagar, Thane, Maharashtra 400612, India</p>
               <p className="mt-3">info@skyinvestmentsolution.com</p>
-              <p>9167603133</p>
+              <p>9930611092</p>
             </div>
           </div>
         </div>
 
         <div className="border-t border-gray-700 mt-8 pt-8 text-center text-gray-400">
-          <p>Copyright © 2025 Sky Investment Solution | All Rights Reserved</p>
+          <p>Copyright © 2025 skyinvestmentsolution.com | All Rights Reserved</p>
         </div>
       </div>
     </footer>

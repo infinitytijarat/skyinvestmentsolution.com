@@ -11,18 +11,18 @@ import { PhoneButton } from "@/components/phone-button"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "Sky Investment Solution - Professional Trading Solutions",
+  title: "skyinvestmentsolution.com - Professional Trading Solutions",
   description: "Empowering Traders and Investors with market insights and professional trading solutions",
   keywords: "trading, intraday, stock market, investment, market analysis, trading tips",
-  authors: [{ name: "Sky Investment Solution" }],
-  creator: "Sky Investment Solution",
-  publisher: "Sky Investment Solution",
+  authors: [{ name: "skyinvestmentsolution.com" }],
+  creator: "skyinvestmentsolution.com",
+  publisher: "skyinvestmentsolution.com",
   robots: "index, follow",
   openGraph: {
-    title: "Sky Investment Solution - Professional Trading Solutions",
+    title: "skyinvestmentsolution.com - Professional Trading Solutions",
     description: "Empowering Traders and Investors with market insights and professional trading solutions",
     url: "https://skyinvestmentsolution.com",
-    siteName: "Sky Investment Solution",
+    siteName: "skyinvestmentsolution.com",
     type: "website",
   },
   icons: {
