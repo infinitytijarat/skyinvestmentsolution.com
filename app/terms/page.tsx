@@ -108,9 +108,9 @@ export default function TermsPage() {
             <p>
               For questions about these terms, please contact us at:
               <br />
-              Email: support@intradayexperts.com
+              Email: info@skyinvestmentsolution.com
               <br />
-              Phone: 9167603133
+              Phone: 9930611092
             </p>
           </section>
 

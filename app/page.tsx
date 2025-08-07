@@ -50,7 +50,7 @@ export default function HomePage() {
               <Button
                 size="lg"
                 className="group bg-gradient-to-r from-teal-500 to-blue-500 hover:from-teal-600 hover:to-blue-600 text-white px-8 py-4 text-lg font-semibold rounded-xl shadow-lg hover:shadow-xl transition-all duration-300 hover:scale-105"
-                onClick={() => (window.location.href = "tel:+919167603133")}
+                onClick={() => (window.location.href = "tel:+919930611092")}
               >
                 GET STARTED
                 <ArrowRight className="ml-2 h-5 w-5 group-hover:translate-x-1 transition-transform" />
@@ -184,7 +184,7 @@ export default function HomePage() {
                 <Button
                   variant="ghost"
                   className="text-teal-400 hover:text-black p-0"
-                  onClick={() => (window.location.href = "tel:+919167603133")}
+                  onClick={() => (window.location.href = "tel:+919930611092")}
                 >
                   Learn More <ArrowRight className="ml-2 h-4 w-4" />
                 </Button>
@@ -215,7 +215,7 @@ export default function HomePage() {
                 <Button
                   variant="ghost"
                   className="text-teal-400 hover:text-black p-0"
-                  onClick={() => (window.location.href = "tel:+919167603133")}
+                  onClick={() => (window.location.href = "tel:+919930611092")}
                 >
                   Learn More <ArrowRight className="ml-2 h-4 w-4" />
                 </Button>
@@ -246,7 +246,7 @@ export default function HomePage() {
                 <Button
                   variant="ghost"
                   className="text-teal-400 hover:text-black p-0"
-                  onClick={() => (window.location.href = "tel:+919167603133")}
+                  onClick={() => (window.location.href = "tel:+919930611092")}
                 >
                   Learn More <ArrowRight className="ml-2 h-4 w-4" />
                 </Button>
@@ -311,7 +311,7 @@ export default function HomePage() {
               <Button
                 variant="outline"
                 className="group border-2 border-teal-400 text-black hover:bg-teal-400 hover:text-slate-900 transition-all duration-300"
-                onClick={() => (window.location.href = "tel:+919167603133")}
+                onClick={() => (window.location.href = "tel:+919930611092")}
               >
                 READ MORE
                 <ArrowRight className="ml-2 h-4 w-4 group-hover:translate-x-1 transition-transform" />
@@ -362,7 +362,7 @@ export default function HomePage() {
               <Button
                 size="lg"
                 className="group bg-white text-slate-900 hover:bg-gray-100 px-8 py-4 text-lg font-semibold rounded-xl shadow-lg hover:shadow-xl transition-all duration-300 hover:scale-105"
-                onClick={() => (window.location.href = "tel:+919167603133")}
+                onClick={() => (window.location.href = "tel:+919930611092")}
               >
                 GET STARTED FREE
                 <ArrowRight className="ml-2 h-5 w-5 group-hover:translate-x-1 transition-transform" />
@@ -372,7 +372,7 @@ export default function HomePage() {
                 size="lg"
                 variant="outline"
                 className="border-2 border-white text-black hover:bg-white/10 backdrop-blur-sm px-8 py-4 text-lg font-semibold rounded-xl transition-all duration-300"
-                onClick={() => (window.location.href = "tel:+919167603133")}
+                onClick={() => (window.location.href = "tel:+919930611092")}
               >
                 <Phone className="mr-2 h-5 w-5" />
                 CALL NOW
@@ -385,7 +385,7 @@ export default function HomePage() {
                 <span className="text-sm">Available Now</span>
               </div>
               <div className="w-px h-4 bg-white/30"></div>
-              <span className="text-lg font-bold">9167603133</span>
+              <span className="text-lg font-bold">9930611092</span>
             </div>
           </div>
         </div>

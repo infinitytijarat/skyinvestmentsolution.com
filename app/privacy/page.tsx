@@ -121,9 +121,9 @@ export default function PrivacyPage() {
             <p>
               If you have any questions about this privacy policy, please contact us at:
               <br />
-              Email: support@intradayexperts.com
+              Email: info@skyinvestmentsolution.com
               <br />
-              Phone: 9167603133
+              Phone: 9930611092
               <br />
               Address: Sakaram Patil Marg, Sector 1A, CBD Belapur,<br />Navi Mumbai, Maharashtra 400614, India
             </p>
