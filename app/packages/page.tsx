@@ -21,7 +21,7 @@ export default function PackagesPage() {
         <div className="container mx-auto px-4">
           <h2 className="text-3xl lg:text-5xl font-bold text-center mb-16">
             <span className="text-transparent bg-clip-text bg-gradient-to-r from-teal-400 to-blue-400">
-              Stock Option Intraday
+              Stock Option of skyinvestmentsolution.com
             </span>
           </h2>
 

@@ -106,7 +106,6 @@ export default function ContactPage() {
                       <h3 className="text-lg font-semibold mb-2 text-white">Office Address</h3>
                       <p className="text-gray-300">
                         Room No. 05 Chawl No. 07 Pakiza Chawl, Dargah Road,
-                        <br />
                         Amrut Nagar, Thane, Maharashtra 400612, India
                       </p>
                     </div>

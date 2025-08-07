@@ -8,7 +8,7 @@ export function Footer() {
           <div>
             <h3 className="text-lg font-semibold mb-4">About Us</h3>
             <p className="text-gray-300">
-              skyinvestmentsolution.com provides premium market research solutions, empowering traders and investors globally
+              Sky Investment Solution provides premium market research solutions, empowering traders and investors globally
               with cutting-edge analysis and insights.
             </p>
           </div>

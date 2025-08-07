@@ -9,7 +9,7 @@ const testimonials = [
   {
     name: "Hemant Patel",
     role: "Day Trader",
-    content: "Sky Investment Solution helped me navigate volatile markets with their insightful analysis. Highly recommended!",
+    content: "skyinvestmentsolution.com helped me navigate volatile markets with their insightful analysis. Highly recommended!",
     rating: 5,
     image: "/placeholder.svg?height=80&width=80",
   },
@@ -17,21 +17,21 @@ const testimonials = [
     name: "Ravi More",
     role: "Investment Advisor",
     content:
-      "I've seen significant growth in my portfolio since partnering with Sky Investment Solution. Their expertise is unparalleled.",
+      "I've seen significant growth in my portfolio since partnering with skyinvestmentsolution.com. Their expertise is unparalleled.",
     rating: 5,
     image: "/placeholder.svg?height=80&width=80",
   },
   {
     name: "Hanif Shaikh",
     role: "Swing Trader",
-    content: "Sky Investment Solution's guidance has been invaluable in my trading journey. Their analysis is top-notch!",
+    content: "skyinvestmentsolution.com's guidance has been invaluable in my trading journey. Their analysis is top-notch!",
     rating: 5,
     image: "/placeholder.svg?height=80&width=80",
   },
   {
     name: "Dinesh Kamble",
     role: "Portfolio Manager",
-    content: "Exceptional service and accurate predictions – Sky Investment Solution truly deliver on their promises.",
+    content: "Exceptional service and accurate predictions – skyinvestmentsolution.com truly deliver on their promises.",
     rating: 5,
     image: "/placeholder.svg?height=80&width=80",
   },
