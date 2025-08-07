@@ -105,9 +105,9 @@ export default function ContactPage() {
                     <div>
                       <h3 className="text-lg font-semibold mb-2 text-white">Office Address</h3>
                       <p className="text-gray-300">
-                        Sakaram Patil Marg, Sector 1A, CBD Belapur,
+                        Room No. 05 Chawl No. 07 Pakiza Chawl, Dargah Road,
                         <br />
-                        Navi Mumbai, Maharashtra 400614, India
+                        Amrut Nagar, Thane, Maharashtra 400612, India
                       </p>
                     </div>
                   </div>

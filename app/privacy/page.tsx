@@ -125,7 +125,7 @@ export default function PrivacyPage() {
               <br />
               Phone: 9930611092
               <br />
-              Address: Sakaram Patil Marg, Sector 1A, CBD Belapur,<br />Navi Mumbai, Maharashtra 400614, India
+              Address: Room No. 05 Chawl No. 07 Pakiza Chawl, Dargah Road, Amrut Nagar,<br />Thane, Maharashtra 400612, India
             </p>
           </section>
 
