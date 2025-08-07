@@ -21,9 +21,6 @@ export default function PackagesPage() {
         <div className="container mx-auto px-4">
           <h2 className="text-3xl lg:text-5xl font-bold text-center mb-16">
             <span className="text-transparent bg-clip-text bg-gradient-to-r from-teal-400 to-blue-400">
-              Stock Option of skyinvestmentsolution.com
-            </span>
-          </h2>
               Stock Option of Sky Investment Solution
             </span>
           </h2>
@@ -49,26 +46,26 @@ export default function PackagesPage() {
                     </div>
                     <span className="text-gray-300">Get 1 tip per day</span>
                   </div>
-                  <div className="flex items-center">
-                    <div className="flex-shrink-0 mr-3">
+                  <div className="flex items-start">
+                    <div className="flex-shrink-0 mr-3 mt-1">
                       <Check className="h-5 w-5 text-teal-400" />
                     </div>
                     <span className="text-gray-300">Accuracy upto 70% above</span>
                   </div>
-                  <div className="flex items-center">
-                    <div className="flex-shrink-0 mr-3">
+                  <div className="flex items-start">
+                    <div className="flex-shrink-0 mr-3 mt-1">
                       <Check className="h-5 w-5 text-teal-400" />
                     </div>
                     <span className="text-gray-300">Get proper target & Stop-loss</span>
                   </div>
-                  <div className="flex items-center">
-                    <div className="flex-shrink-0 mr-3">
+                  <div className="flex items-start">
+                    <div className="flex-shrink-0 mr-3 mt-1">
                       <Check className="h-5 w-5 text-teal-400" />
                     </div>
                     <span className="text-gray-300">Profit target Rs. 4000 – Rs. 6000</span>
                   </div>
-                  <div className="flex items-center">
-                    <div className="flex-shrink-0 mr-3">
+                  <div className="flex items-start">
+                    <div className="flex-shrink-0 mr-3 mt-1">
                       <Check className="h-5 w-5 text-teal-400" />
                     </div>
                     <span className="text-gray-300 break-words">Eligibility criteria – capital below 50000</span>
@@ -84,7 +81,7 @@ export default function PackagesPage() {
             </Card>
 
             {/* Primary Package */}
-            <Card className="bg-gradient-to-b from-slate-800 to-slate-900 border-teal-400 transition-all duration-300 overflow-hidden relative hover:z-10">
+            <Card className="bg-gradient-to-b from-slate-800 to-slate-900 border-teal-400 transition-all duration-300 overflow-hidden relative">
               <div className="absolute top-0 right-0 bg-teal-500 text-white px-4 py-1 text-sm font-semibold">
                 POPULAR
               </div>
@@ -100,38 +97,38 @@ export default function PackagesPage() {
                 </div>
 
                 <div className="space-y-4">
-                  <div className="flex items-center">
-                    <div className="flex-shrink-0 mr-3">
+                  <div className="flex items-start">
+                    <div className="flex-shrink-0 mr-3 mt-1">
                       <Check className="h-5 w-5 text-teal-400" />
                     </div>
                     <span className="text-gray-300">Get upto 2 tips per day</span>
                   </div>
-                  <div className="flex items-center">
-                    <div className="flex-shrink-0 mr-3">
+                  <div className="flex items-start">
+                    <div className="flex-shrink-0 mr-3 mt-1">
                       <Check className="h-5 w-5 text-teal-400" />
                     </div>
                     <span className="text-gray-300">Get proper target & Stop-loss</span>
                   </div>
-                  <div className="flex items-center">
-                    <div className="flex-shrink-0 mr-3">
+                  <div className="flex items-start">
+                    <div className="flex-shrink-0 mr-3 mt-1">
                       <Check className="h-5 w-5 text-teal-400" />
                     </div>
                     <span className="text-gray-300">Personal relationship manager</span>
                   </div>
-                  <div className="flex items-center">
-                    <div className="flex-shrink-0 mr-3">
+                  <div className="flex items-start">
+                    <div className="flex-shrink-0 mr-3 mt-1">
                       <Check className="h-5 w-5 text-teal-400" />
                     </div>
                     <span className="text-gray-300 break-words">Eligibility criteria – capital above Rs. 70,000</span>
                   </div>
-                  <div className="flex items-center">
-                    <div className="flex-shrink-0 mr-3">
+                  <div className="flex items-start">
+                    <div className="flex-shrink-0 mr-3 mt-1">
                       <Check className="h-5 w-5 text-teal-400" />
                     </div>
                     <span className="text-gray-300">Profit target Rs. 6,000 – Rs. 9,000</span>
                   </div>
-                  <div className="flex items-center">
-                    <div className="flex-shrink-0 mr-3">
+                  <div className="flex items-start">
+                    <div className="flex-shrink-0 mr-3 mt-1">
                       <Check className="h-5 w-5 text-teal-400" />
                     </div>
                     <span className="text-gray-300">Accuracy up to 85%</span>
@@ -160,32 +157,32 @@ export default function PackagesPage() {
                 </div>
 
                 <div className="space-y-4">
-                  <div className="flex items-center">
-                    <div className="flex-shrink-0 mr-3">
+                  <div className="flex items-start">
+                    <div className="flex-shrink-0 mr-3 mt-1">
                       <Check className="h-5 w-5 text-teal-400" />
                     </div>
                     <span className="text-gray-300">Get upto 1 to 2 tips per day</span>
                   </div>
-                  <div className="flex items-center">
-                    <div className="flex-shrink-0 mr-3">
+                  <div className="flex items-start">
+                    <div className="flex-shrink-0 mr-3 mt-1">
                       <Check className="h-5 w-5 text-teal-400" />
                     </div>
                     <span className="text-gray-300">Get proper target & stop-loss</span>
                   </div>
-                  <div className="flex items-center">
-                    <div className="flex-shrink-0 mr-3">
+                  <div className="flex items-start">
+                    <div className="flex-shrink-0 mr-3 mt-1">
                       <Check className="h-5 w-5 text-teal-400" />
                     </div>
                     <span className="text-gray-300">Profit target- Rs. 10,000 to Rs. 15,000</span>
                   </div>
-                  <div className="flex items-center">
-                    <div className="flex-shrink-0 mr-3">
+                  <div className="flex items-start">
+                    <div className="flex-shrink-0 mr-3 mt-1">
                       <Check className="h-5 w-5 text-teal-400" />
                     </div>
                     <span className="text-gray-300 break-words">Eligibility criteria Capital above Rs. 100,000</span>
                   </div>
-                  <div className="flex items-center">
-                    <div className="flex-shrink-0 mr-3">
+                  <div className="flex items-start">
+                    <div className="flex-shrink-0 mr-3 mt-1">
                       <Check className="h-5 w-5 text-teal-400" />
                     </div>
                     <span className="text-gray-300">Accuracy upto 85% above</span>
@@ -219,24 +216,24 @@ export default function PackagesPage() {
                   </div>
 
                   <div className="space-y-3 text-sm">
-                    <div className="flex items-center">
-                      <Check className="h-4 w-4 text-teal-400 mr-2" />
+                    <div className="flex items-start">
+                      <Check className="h-4 w-4 text-teal-400 mr-2 flex-shrink-0 mt-1" />
                       <span className="text-gray-300">Get upto 1 to 2 tips per day</span>
                     </div>
-                    <div className="flex items-center">
-                      <Check className="h-4 w-4 text-teal-400 mr-2" />
+                    <div className="flex items-start">
+                      <Check className="h-4 w-4 text-teal-400 mr-2 flex-shrink-0 mt-1" />
                       <span className="text-gray-300">Get proper target & stop-loss</span>
                     </div>
-                    <div className="flex items-center">
-                      <Check className="h-4 w-4 text-teal-400 mr-2" />
+                    <div className="flex items-start">
+                      <Check className="h-4 w-4 text-teal-400 mr-2 flex-shrink-0 mt-1" />
                       <span className="text-gray-300">Profit target- Rs. 15,000 to Rs. 20,000</span>
                     </div>
-                    <div className="flex items-center">
-                      <Check className="h-4 w-4 text-teal-400 mr-2 flex-shrink-0" />
+                    <div className="flex items-start">
+                      <Check className="h-4 w-4 text-teal-400 mr-2 flex-shrink-0 mt-1" />
                       <span className="text-gray-300 break-words">Eligibility criteria Capital above Rs. 150,000</span>
                     </div>
-                    <div className="flex items-center">
-                      <Check className="h-4 w-4 text-teal-400 mr-2" />
+                    <div className="flex items-start">
+                      <Check className="h-4 w-4 text-teal-400 mr-2 flex-shrink-0 mt-1" />
                       <span className="text-gray-300">Accuracy upto 85% above</span>
                     </div>
                   </div>
@@ -263,24 +260,24 @@ export default function PackagesPage() {
                   </div>
 
                   <div className="space-y-3 text-sm">
-                    <div className="flex items-center">
-                      <Check className="h-4 w-4 text-teal-400 mr-2" />
+                    <div className="flex items-start">
+                      <Check className="h-4 w-4 text-teal-400 mr-2 flex-shrink-0 mt-1" />
                       <span className="text-gray-300">Get upto 1 to 2 tips per day</span>
                     </div>
-                    <div className="flex items-center">
-                      <Check className="h-4 w-4 text-teal-400 mr-2" />
+                    <div className="flex items-start">
+                      <Check className="h-4 w-4 text-teal-400 mr-2 flex-shrink-0 mt-1" />
                       <span className="text-gray-300">Get proper target & stop-loss</span>
                     </div>
-                    <div className="flex items-center">
-                      <Check className="h-4 w-4 text-teal-400 mr-2" />
+                    <div className="flex items-start">
+                      <Check className="h-4 w-4 text-teal-400 mr-2 flex-shrink-0 mt-1" />
                       <span className="text-gray-300">Profit target- Rs. 20,000 to Rs. 25,000</span>
                     </div>
-                    <div className="flex items-center">
-                      <Check className="h-4 w-4 text-teal-400 mr-2 flex-shrink-0" />
+                    <div className="flex items-start">
+                      <Check className="h-4 w-4 text-teal-400 mr-2 flex-shrink-0 mt-1" />
                       <span className="text-gray-300 break-words">Eligibility criteria Capital above Rs. 200,000 - 250,000</span>
                     </div>
-                    <div className="flex items-center">
-                      <Check className="h-4 w-4 text-teal-400 mr-2" />
+                    <div className="flex items-start">
+                      <Check className="h-4 w-4 text-teal-400 mr-2 flex-shrink-0 mt-1" />
                       <span className="text-gray-300">Accuracy upto 85% above</span>
                     </div>
                   </div>
@@ -307,160 +304,25 @@ export default function PackagesPage() {
                   </div>
 
                   <div className="space-y-3 text-sm">
-                    <div className="flex items-center">
-                      <Check className="h-4 w-4 text-teal-400 mr-2" />
+                    <div className="flex items-start">
+                      <Check className="h-4 w-4 text-teal-400 mr-2 flex-shrink-0 mt-1" />
                       <span className="text-gray-300">Get upto 1 to 2 tips per day</span>
                     </div>
-                    <div className="flex items-center">
-                      <Check className="h-4 w-4 text-teal-400 mr-2" />
+                    <div className="flex items-start">
+                      <Check className="h-4 w-4 text-teal-400 mr-2 flex-shrink-0 mt-1" />
                       <span className="text-gray-300">Get proper target & stop-loss</span>
                     </div>
-                    <div className="flex items-center">
-                      <Check className="h-4 w-4 text-teal-400 mr-2" />
-                      <span className="text-gray-300">Profit target- Rs. 40,000 to Rs. 50,000</span>
+                    <div className="flex items-start">
+                      <Check className="h-4 w-4 text-teal-400 mr-2 flex-shrink-0 mt-1" />
+                      <span className="text-gray-300">Profit target- Rs. 25,000 to Rs. 30,000</span>
                     </div>
-                    <div className="flex items-center">
-                      <Check className="h-4 w-4 text-teal-400 mr-2" />
-                      <span className="text-gray-300">Eligibility criteria Capital above Rs. 300,000 - 350,000</span>
+                    <div className="flex items-start">
+                      <Check className="h-4 w-4 text-teal-400 mr-2 flex-shrink-0 mt-1" />
+                      <span className="text-gray-300 break-words">Eligibility criteria Capital above Rs. 300,000</span>
                     </div>
-                    <div className="flex items-center">
-                      <Check className="h-4 w-4 text-teal-400 mr-2" />
-                      <span className="text-gray-300">Accuracy upto 85% above</span>
-                    </div>
-                  </div>
-
-                  <div className="mt-6">
-                    <Button className="w-full bg-green-500 hover:bg-green-600 text-white text-sm py-2" onClick={() => (window.location.href = "tel:+919930611092")}>
-                      Click Here
-                    </Button>
-                  </div>
-                </CardContent>
-              </Card>
-            </div>
-          </div>
-
-          {/* Higher Tier Packages */}
-          <div className="mt-16">
-            <h3 className="text-2xl font-bold text-center mb-10">Premium Investment Packages</h3>
-            <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
-              <Card className="bg-gradient-to-b from-slate-800 to-slate-900 border-slate-700 hover:border-teal-400 transition-all duration-300">
-                <CardHeader className="bg-slate-700 text-center py-4">
-                  <CardTitle className="text-xl text-white">Executive</CardTitle>
-                  <p className="text-sm text-gray-300">(Exclusive of GST)</p>
-                </CardHeader>
-                <CardContent className="p-6">
-                  <div className="text-center mb-4">
-                    <span className="text-3xl font-bold text-teal-400">₹</span>
-                    <span className="text-4xl font-bold text-white">200,999</span>
-                    <p className="text-gray-400 mt-1">Monthly</p>
-                  </div>
-
-                  <div className="space-y-3 text-sm">
-                    <div className="flex items-center">
-                      <Check className="h-4 w-4 text-teal-400 mr-2" />
-                      <span className="text-gray-300">Get upto 1 to 2 tips per day</span>
-                    </div>
-                    <div className="flex items-center">
-                      <Check className="h-4 w-4 text-teal-400 mr-2" />
-                      <span className="text-gray-300">Get proper target & stop-loss</span>
-                    </div>
-                    <div className="flex items-center">
-                      <Check className="h-4 w-4 text-teal-400 mr-2" />
-                      <span className="text-gray-300">Profit target- Rs. 50,000 to Rs. 60,000</span>
-                    </div>
-                    <div className="flex items-center">
-                      <Check className="h-4 w-4 text-teal-400 mr-2" />
-                      <span className="text-gray-300">Eligibility criteria Capital above Rs. 400,000 - 500,000</span>
-                    </div>
-                    <div className="flex items-center">
-                      <Check className="h-4 w-4 text-teal-400 mr-2" />
-                      <span className="text-gray-300">Accuracy upto 85% above</span>
-                    </div>
-                  </div>
-
-                  <div className="mt-6">
-                    <Button className="w-full bg-green-500 hover:bg-green-600 text-white text-sm py-2" onClick={() => (window.location.href = "tel:+919930611092")}>
-                      Click Here
-                    </Button>
-                  </div>
-                </CardContent>
-              </Card>
-
-              <Card className="bg-gradient-to-b from-slate-800 to-slate-900 border-slate-700 hover:border-teal-400 transition-all duration-300">
-                <CardHeader className="bg-slate-700 text-center py-4">
-                  <CardTitle className="text-xl text-white">Platinum</CardTitle>
-                  <p className="text-sm text-gray-300">(Exclusive of GST)</p>
-                </CardHeader>
-                <CardContent className="p-6">
-                  <div className="text-center mb-4">
-                    <span className="text-3xl font-bold text-teal-400">₹</span>
-                    <span className="text-4xl font-bold text-white">303,999</span>
-                    <p className="text-gray-400 mt-1">Monthly</p>
-                  </div>
-
-                  <div className="space-y-3 text-sm">
-                    <div className="flex items-center">
-                      <Check className="h-4 w-4 text-teal-400 mr-2" />
-                      <span className="text-gray-300">Get upto 1 to 2 tips per day</span>
-                    </div>
-                    <div className="flex items-center">
-                      <Check className="h-4 w-4 text-teal-400 mr-2" />
-                      <span className="text-gray-300">Get proper target & stop-loss</span>
-                    </div>
-                    <div className="flex items-center">
-                      <Check className="h-4 w-4 text-teal-400 mr-2" />
-                      <span className="text-gray-300">Profit target- Rs. 60,000 to Rs. 70,000</span>
-                    </div>
-                    <div className="flex items-center">
-                      <Check className="h-4 w-4 text-teal-400 mr-2" />
-                      <span className="text-gray-300">Eligibility criteria Capital above Rs. 500,000 - 600,000</span>
-                    </div>
-                    <div className="flex items-center">
-                      <Check className="h-4 w-4 text-teal-400 mr-2" />
-                      <span className="text-gray-300">Accuracy upto 85% above</span>
-                    </div>
-                  </div>
-
-                  <div className="mt-6">
-                    <Button className="w-full bg-green-500 hover:bg-green-600 text-white text-sm py-2" onClick={() => (window.location.href = "tel:+919930611092")}>
-                      Click Here
-                    </Button>
-                  </div>
-                </CardContent>
-              </Card>
-
-              <Card className="bg-gradient-to-b from-slate-800 to-slate-900 border-slate-700 hover:border-teal-400 transition-all duration-300">
-                <CardHeader className="bg-slate-700 text-center py-4">
-                  <CardTitle className="text-xl text-white">Diamond</CardTitle>
-                  <p className="text-sm text-gray-300">(Exclusive of GST)</p>
-                </CardHeader>
-                <CardContent className="p-6">
-                  <div className="text-center mb-4">
-                    <span className="text-3xl font-bold text-teal-400">₹</span>
-                    <span className="text-4xl font-bold text-white">406,999</span>
-                    <p className="text-gray-400 mt-1">Monthly</p>
-                  </div>
-
-                  <div className="space-y-3 text-sm">
-                    <div className="flex items-center">
-                      <Check className="h-4 w-4 text-teal-400 mr-2" />
-                      <span className="text-gray-300">Get upto 1 to 2 tips per day</span>
-                    </div>
-                    <div className="flex items-center">
-                      <Check className="h-4 w-4 text-teal-400 mr-2" />
-                      <span className="text-gray-300">Get proper target & stop-loss</span>
-                    </div>
-                    <div className="flex items-center">
-                      <Check className="h-4 w-4 text-teal-400 mr-2" />
-                      <span className="text-gray-300">Profit target- Rs. 80,000 to Rs. 90,000</span>
-                    </div>
-                    <div className="flex items-center">
-                      <Check className="h-4 w-4 text-teal-400 mr-2" />
-                      <span className="text-gray-300">Eligibility criteria Capital above Rs. 700,000 - 800,000</span>
-                    </div>
-                    <div className="flex items-center">
-                      <Check className="h-4 w-4 text-teal-400 mr-2" />
-                      <span className="text-gray-300">Accuracy upto 85% above</span>
+                    <div className="flex items-start">
+                      <Check className="h-4 w-4 text-teal-400 mr-2 flex-shrink-0 mt-1" />
+                      <span className="text-gray-300">Accuracy upto 90% above</span>
                     </div>
                   </div>
 
@@ -479,12 +341,15 @@ export default function PackagesPage() {
       {/* CTA Section */}
       <section className="py-16 lg:py-24 bg-gradient-to-r from-teal-500 via-blue-500 to-purple-500 text-white">
         <div className="container mx-auto px-4 text-center">
-          <h2 className="text-3xl lg:text-5xl font-bold mb-8">Ready To Hire A Great Team?</h2>
-          <p className="text-xl mb-12 max-w-3xl mx-auto">
-            Take the first step towards transforming your trading journey with our expert guidance
+          <h2 className="text-3xl lg:text-5xl font-bold mb-6">Ready to Start Your Trading Journey?</h2>
+          <p className="text-xl mb-8 max-w-3xl mx-auto">
+            Contact our team today and get started with a package that suits your investment goals.
           </p>
-          <Button size="lg" className="bg-white text-blue-600 hover:bg-gray-100 px-8 py-6 text-xl font-bold rounded-xl" onClick={() => (window.location.href = "tel:+919930611092")}>
-            START FREE TRIAL
+          <Button 
+            className="bg-white text-blue-600 hover:bg-gray-100 text-lg font-medium px-8 py-3"
+            onClick={() => (window.location.href = "tel:+919930611092")}
+          >
+            Call Us Now
           </Button>
         </div>
       </section>
