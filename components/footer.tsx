@@ -52,6 +52,10 @@ export function Footer() {
 
         <div className="border-t border-gray-700 mt-8 pt-8 text-center text-gray-400">
           <p>Copyright © 2025 skyinvestmentsolution.com | All Rights Reserved</p>
+          <div className="mt-4 text-sm">
+            <p><strong>Legal</strong></p>
+            <p>This Website is NOT a part of Meta or Meta Platforms, Inc. Additionally, this site is NOT endorsed by Meta in any way</p>
+          </div>
         </div>
       </div>
     </footer>
