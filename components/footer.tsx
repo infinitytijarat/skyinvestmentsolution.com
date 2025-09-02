@@ -43,7 +43,7 @@ export function Footer() {
           <div>
             <h3 className="text-lg font-semibold mb-4">Contact Us</h3>
             <div className="space-y-2 text-gray-300">
-              <p>Room No. 05 Chawl No. 07 Pakiza Chawl, Dargah Road, Amrut Nagar, Thane, Maharashtra 400612, India</p>
+              <p>Sky investment Solutions 5678 Maple Avenue, Suite 300 Riverside, CA 92507 New mumbai</p>
               <p className="mt-3">info@skyinvestmentsolution.com</p>
               <p>9930611092</p>
             </div>

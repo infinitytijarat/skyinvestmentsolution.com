@@ -125,7 +125,7 @@ export default function PrivacyPage() {
               <br />
               Phone: 9930611092
               <br />
-              Address: Room No. 05 Chawl No. 07 Pakiza Chawl, Dargah Road, Amrut Nagar,<br />Thane, Maharashtra 400612, India
+              Address: Sky investment Solutions 5678 Maple Avenue, Suite 300 Riverside, CA 92507 New mumbai
             </p>
           </section>
 

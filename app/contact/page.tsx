@@ -105,7 +105,7 @@ export default function ContactPage() {
                     <div>
                       <h3 className="text-lg font-semibold mb-2 text-white">Office Address</h3>
                       <p className="text-gray-300">
-                        Room No. 05 Chawl No. 07 Pakiza Chawl, Dargah Road, Amrut Nagar, Thane, Maharashtra 400612, India
+                        Sky investment Solutions 5678 Maple Avenue, Suite 300 Riverside, CA 92507 New mumbai
                       </p>
                     </div>
                   </div>
